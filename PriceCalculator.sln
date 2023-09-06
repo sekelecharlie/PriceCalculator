@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PriceCalculator", "PriceCalculator\PriceCalculator.vbproj", "{FD98492F-7C3B-4FD0-886C-478FED294D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD98492F-7C3B-4FD0-886C-478FED294D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD98492F-7C3B-4FD0-886C-478FED294D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD98492F-7C3B-4FD0-886C-478FED294D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD98492F-7C3B-4FD0-886C-478FED294D92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11EC96B4-85C6-4478-9311-855A5ABC9809}
+	EndGlobalSection
+EndGlobal
